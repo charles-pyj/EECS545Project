@@ -1,0 +1,3 @@
+[submodule "dataset/bbh"]
+	path = dataset/bbh
+	url = https://huggingface.co/datasets/lighteval/bbh
